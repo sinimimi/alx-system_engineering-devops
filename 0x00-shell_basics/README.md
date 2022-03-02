@@ -12,3 +12,4 @@
 #10. Going back to previous directory
 #11. Listing files in current directory and parent directory
 #12. Printing the type of file
+#13. Create a symbolic link
