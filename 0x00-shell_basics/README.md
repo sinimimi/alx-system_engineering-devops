@@ -5,3 +5,5 @@
 #3. Lists files in long format
 #4. Lists all files including hidden ones.
 #5. Displays contents with group IDS
+#6. Creates directory in /tmp directory
+#7. Moves betty to the directory created in number 7
