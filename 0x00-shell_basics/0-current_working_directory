@@ -1,2 +1,2 @@
 #!/bin/bash
-$ ./0-current_working_directory
+echo "$(cd "$(dirname "$1")"; pwd -P)/$(basename "$1")"
