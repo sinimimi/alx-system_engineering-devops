@@ -17,3 +17,4 @@
 #15. Moving all files beginning with an uppercase letter
 #16. Deletes all files for emacs
 #17. Create different directories in current directory
+#18. List files and directories separating them by commas and arranging them by text
