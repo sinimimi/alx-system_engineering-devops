@@ -14,3 +14,4 @@
 #12. Printing the type of file
 #13. Create a symbolic link
 #14. Copy files to the parent directory
+#15. Moving all files beginning with an uppercase letter
