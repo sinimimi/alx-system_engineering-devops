@@ -16,3 +16,4 @@
 #14. Copy files to the parent directory
 #15. Moving all files beginning with an uppercase letter
 #16. Deletes all files for emacs
+#17. Create different directories in current directory
