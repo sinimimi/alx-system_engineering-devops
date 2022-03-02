@@ -13,3 +13,4 @@
 #11. Listing files in current directory and parent directory
 #12. Printing the type of file
 #13. Create a symbolic link
+#14. Copy files to the parent directory
