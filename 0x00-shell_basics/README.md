@@ -4,3 +4,4 @@
 #2. Changes my working directory to root.
 #3. Lists files in long format
 #4. Lists all files including hidden ones.
+#5. Displays contents with group IDS
