@@ -8,3 +8,6 @@
 #6. Creates directory in /tmp directory
 #7. Moves betty to the directory created in number 7
 #8. Deleting the file betty from my first directory
+#9. Deleting my first directory
+#10. Going back to previous directory
+#11. Listing files in current directory and parent directory
