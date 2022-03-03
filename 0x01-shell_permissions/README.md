@@ -4,3 +4,4 @@
 #3. Change owner of a file to the user betty
 #4. Creates an empty file called hello
 #5. Adding execute permissions to the owner of the file hello
+#6. Adding execute permissions to the owner and read permission to other users to file hello
