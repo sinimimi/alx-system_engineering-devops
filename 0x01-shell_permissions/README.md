@@ -10,3 +10,4 @@
 #9. Sets the mode of the file with specific instructions
 #10. Mirror permissions of another file
 #11. Change permissions for directories
+#12. Create directory with specific permissions
