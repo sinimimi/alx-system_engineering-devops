@@ -9,3 +9,4 @@
 #8. Change owner permissions to none, group to none and other users to all
 #9. Sets the mode of the file with specific instructions
 #10. Mirror permissions of another file
+#11. Change permissions for directories
