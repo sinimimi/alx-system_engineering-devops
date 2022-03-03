@@ -13,3 +13,4 @@
 #12. Create directory with specific permissions
 #13. Changing the group owner of a file
 #14. Change the owner and group owner of a file recussively
+#15. Change permissions of symbolic links
