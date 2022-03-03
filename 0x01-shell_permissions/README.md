@@ -6,3 +6,4 @@
 #5. Adding execute permissions to the owner of the file hello
 #6. Adding execute permissions to the owner and read permission to other users to file hello
 #7. Adding executable permissions to all users
+#8. Change owner permissions to none, group to none and other users to all
