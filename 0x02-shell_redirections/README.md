@@ -22,3 +22,4 @@
 #21. Writing a script that reverses my input
 #22. Display all users and their home directories sorted by users
 #23. Find files without using grep
+#24. List all .gif files
