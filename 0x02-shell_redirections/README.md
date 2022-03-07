@@ -6,3 +6,4 @@
 #5. I want to display the first ten lines of a file
 #6. I want to diplay only the third line of the file iacta
 #7. Creating a script that creates a file and adds text Best school and ends in a new line
+#8. I am saving the current state of my directory in to a file
