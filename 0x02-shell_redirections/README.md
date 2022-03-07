@@ -20,3 +20,4 @@
 #19. REplacing chacters A-C with Z-e
 #20. Created a script that removes C and c from input
 #21. Writing a script that reverses my input
+#22. Display all users and their home directories sorted by users
