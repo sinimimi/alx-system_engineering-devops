@@ -18,3 +18,4 @@
 #17. Displaying all lines in a file without the word bin
 #18. Displaying all lines starting with a letter
 #19. REplacing chacters A-C with Z-e
+#20. Created a script that removes C and c from input
