@@ -13,3 +13,5 @@
 #12. Creating a script that displays the 10 newest files in my current directory
 #13. Creating a script that takes a list of words and prints only words that appear once
 #14. Am displaying lines that have the word root in their files
+#15. Counting the word bin in a file
+#16. Display lines from the pattern root and 3 lines after it.
