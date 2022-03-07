@@ -9,3 +9,4 @@
 #8. I am saving the current state of my directory in to a file
 #9. I want to duplicate the last line of the file iacta
 #10. A Script to delete all .js files in my directory and subdirectories
+#11. Counting the number of directories and subdirectories including hidden
