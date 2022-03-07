@@ -12,3 +12,4 @@
 #11. Counting the number of directories and subdirectories including hidden
 #12. Creating a script that displays the 10 newest files in my current directory
 #13. Creating a script that takes a list of words and prints only words that appear once
+#14. Am displaying lines that have the word root in their files
