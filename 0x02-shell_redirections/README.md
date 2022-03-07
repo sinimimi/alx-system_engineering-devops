@@ -4,3 +4,4 @@
 #3. I want to display the contents of both /etc/passwd and /etc/hosts
 #4. I want to display the last 10 lines of a file
 #5. I want to display the first ten lines of a file
+#6. I want to diplay only the third line of the file iacta
