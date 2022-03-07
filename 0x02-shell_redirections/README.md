@@ -23,3 +23,4 @@
 #22. Display all users and their home directories sorted by users
 #23. Find files without using grep
 #24. List all .gif files
+#25. Decode acrostics without using grep
