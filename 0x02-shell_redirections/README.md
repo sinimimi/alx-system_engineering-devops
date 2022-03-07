@@ -15,3 +15,4 @@
 #14. Am displaying lines that have the word root in their files
 #15. Counting the word bin in a file
 #16. Display lines from the pattern root and 3 lines after it.
+#17. Displaying all lines in a file without the word bin
