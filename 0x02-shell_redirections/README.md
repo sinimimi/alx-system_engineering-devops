@@ -8,3 +8,4 @@
 #7. Creating a script that creates a file and adds text Best school and ends in a new line
 #8. I am saving the current state of my directory in to a file
 #9. I want to duplicate the last line of the file iacta
+#10. A Script to delete all .js files in my directory and subdirectories
