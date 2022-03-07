@@ -16,3 +16,4 @@
 #15. Counting the word bin in a file
 #16. Display lines from the pattern root and 3 lines after it.
 #17. Displaying all lines in a file without the word bin
+#18. Displaying all lines starting with a letter
