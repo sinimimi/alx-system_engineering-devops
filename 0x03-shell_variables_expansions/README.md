@@ -9,3 +9,4 @@
 #8. A script that adds a value with what is stored in the environmental variable
 #9. A script that prints out the result of power and divide
 #10. Creating a script that does the power of a number
+#11. Convert a number from base 2 to base 10
