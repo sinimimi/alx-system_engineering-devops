@@ -12,3 +12,4 @@
 #11. Convert a number from base 2 to base 10
 #12. Print all possible combinations of two letters except oo
 #13. Writing a script that prints a number with two decimal places
+#14. Converting a decimal to hexadecimal
