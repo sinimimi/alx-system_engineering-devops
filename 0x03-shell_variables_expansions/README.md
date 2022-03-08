@@ -7,3 +7,4 @@
 #6. Create a script that creates a new local variable
 #7. Creating a script that creates a new gloabl variable
 #8. A script that adds a value with what is stored in the environmental variable
+#9. A script that prints out the result of power and divide
