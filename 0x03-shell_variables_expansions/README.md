@@ -14,3 +14,4 @@
 #13. Writing a script that prints a number with two decimal places
 #14. Converting a decimal to hexadecimal
 #15. Writing a script that encodes texct using the rot 13 encryption
+#16. Writing a script that prints every other line from the input
