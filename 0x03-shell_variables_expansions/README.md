@@ -1,8 +1,9 @@
-#1. Am creating a script that creates an alias
-#2. Am creating a script that prints hello user where user is the current linux user
-#3. Adding /action to the PATH /action
-#4. Creating a script that counts the number of directories in the path
-#5. Creating a variable that lists all environmental variables
-#6. See all variables: local, environment and functions
-#7. Create a script that creates a new local variable
-#8. Creating a script that creates a new gloabl variable
+#0. Am creating a script that creates an alias
+#1. Am creating a script that prints hello user where user is the current linux user
+#2. Adding /action to the PATH /action
+#3. Creating a script that counts the number of directories in the path
+#4. Creating a variable that lists all environmental variables
+#5. See all variables: local, environment and functions
+#6. Create a script that creates a new local variable
+#7. Creating a script that creates a new gloabl variable
+#8. A script that adds a value with what is stored in the environmental variable
