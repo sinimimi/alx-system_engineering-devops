@@ -5,3 +5,4 @@
 #5. Creating a variable that lists all environmental variables
 #6. See all variables: local, environment and functions
 #7. Create a script that creates a new local variable
+#8. Creating a script that creates a new gloabl variable
