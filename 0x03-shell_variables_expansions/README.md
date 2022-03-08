@@ -15,3 +15,4 @@
 #14. Converting a decimal to hexadecimal
 #15. Writing a script that encodes texct using the rot 13 encryption
 #16. Writing a script that prints every other line from the input
+#17. Writing a shell script that adds the two numbers stored in the environment variables
